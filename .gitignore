@@ -1,11 +1,11 @@
-# Игнорировать виртуальное окружение
+# Ignore the virtual environment
 venv/
 .env
 
-# Игнорировать кэш Python
+# Ignore the cachePython
 __pycache__/
 *.pyc
 
-# Игнорировать IDE-специфичные файлы
+# Ignore IDE-specific files
 .vscode/
 .idea/
