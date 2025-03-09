@@ -1,9 +1,9 @@
 # URL Shortener Service
 
-Этот проект представляет собой простой HTTP-сервер для сокращения URL, написанный на Python с использованием Flask.
+This project is a simple HTTP URL shortening server written in Python using Flask.
 
-## Как запустить
+## How to launch
 
-1. Установите зависимости:
+1. Install the dependencies:
    ```bash
    pip install -r requirements.txt
